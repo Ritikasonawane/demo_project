@@ -1,4 +1,7 @@
 public class First{
       void m1(){
 }
+
+void m2(){
+}
 }
